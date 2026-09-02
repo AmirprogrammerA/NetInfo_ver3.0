@@ -1,4 +1,6 @@
 # 🔧 NetInfo v3.0 (Mobile Edition)
+netInfo Site👇:
+https://amirprogrammera.github.io/NetInfo_ver3.0/
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)
